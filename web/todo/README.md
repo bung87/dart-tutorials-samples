@@ -1,5 +1,5 @@
 #  Add Elements to the DOM  
-### ynamically add items to the browser page.  
+### Dynamically add items to the browser page.  
 [Tutorials link](https://www.dartlang.org/docs/tutorials/add-elements/)
 
 ## Getting an element from the DOM  
