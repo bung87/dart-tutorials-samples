@@ -14,9 +14,9 @@ This program stashes a reference to the input element in a top-level variable ca
 
 Note the types of these variables: `InputElement` and `UListElement`. These are both subclasses of `Element`. The `dart:html` library has dozens of Element subclasses, many of which correspond to certain HTML tags. This program uses three:  
 HTML tag    Dart class
-<input> [InputElement](https://api.dartlang.org/dart_html/InputElement.html)
-<ul>    [UListElement](https://api.dartlang.org/dart_html/UListElement.html)
-<li>    [LIElement](https://api.dartlang.org/dart_html/LIElement.html)  
+`<input>` [InputElement](https://api.dartlang.org/dart_html/InputElement.html)
+`<ul>`    [UListElement](https://api.dartlang.org/dart_html/UListElement.html)
+`<li>`    [LIElement](https://api.dartlang.org/dart_html/LIElement.html)  
 
 ## Registering an event handler  
 
